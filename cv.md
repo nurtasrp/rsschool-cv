@@ -54,6 +54,8 @@ Bachelor of Economics and Business
 - Programming with JavaScript, Meta
 - The complete 2021 Web Development Bootcamp
 
+====
+
 ## COMPLETED PROJECTS
 
 - [Код проекта](https://github.com/nurtasrp/iPhone-14-Presentation) - Презентация iPhone 14
