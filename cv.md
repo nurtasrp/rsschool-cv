@@ -1,11 +1,11 @@
-## Nurtas Rush
+# Nurtas Rush
 
-Tel.: +7701-760-90-71
 Email: nurtasr@gmail.com
+Discord nickname: Nurtas (@nurtasrp)
 
 ====
 
-## Work experience
+## WORK EXPERIENCE
 
 **Senior Financial Analyst, Eastcomtrans LLP, Almaty, July 2022 - October 2022**
 
@@ -30,7 +30,7 @@ Email: nurtasr@gmail.com
 
 ====
 
-## Education
+## EDUCATION
 
 **Nazarbayev University, Astana, Kazakhstan**
 Master of Engineering/Industrial Management
@@ -38,3 +38,24 @@ Master of Engineering/Industrial Management
 Bachelor of Economics and Business
 
 ====
+
+## EXTRACURRICULAR ACTIVITIES
+
+**Skills**
+
+- Languages: Kazakh - native, English - advanced, Russian - fluent
+- Technical skills: PostgreSQL, MongoDB, HTML, CSS, JavaScript, React.JS, Git
+- Industry knowledge: Financial Reporting, Financial Analysis, IFRS, Accounting, Corporate Finance
+
+**Completed courses**
+
+- The complete SQL Bootcamp 2022: Go from Zero to Hero
+- Introduction to Front-End Development, Meta
+- Programming with JavaScript, Meta
+- The complete 2021 Web Development Bootcamp
+
+## COMPLETED PROJECTS
+
+- [Код проекта](https://github.com/nurtasrp/iPhone-14-Presentation) - Презентация iPhone 14
+- [Код проекта](https://github.com/nurtasrp/Drum-Kit) - Игра на барабанах
+- [Код проекта](https://nurtasrp.github.io/Dice-Game/) - Игра в кости
