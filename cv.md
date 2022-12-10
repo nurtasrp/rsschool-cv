@@ -29,3 +29,12 @@ Email: nurtasr@gmail.com
   financial statements of different companies in order to understand the current financial position of the company and forecast. Full support of current clients and consulting on the company's financial products and services.
 
 ====
+
+## Education
+
+**Nazarbayev University, Astana, Kazakhstan**
+Master of Engineering/Industrial Management
+**International University of Information Technologies, Almaty, Kazakhstan**
+Bachelor of Economics and Business
+
+====
